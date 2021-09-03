@@ -13,7 +13,7 @@ Watch my *[DEMO VIDEOS!]( https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0I
   * image processing
 * [Pedestrian Removing Application]()
   * image processing
-* [Breakout Game]()
+* [Breakout Game](https://github.com/iiirischen/MystanCodeProjects/tree/main/stanCode_projects/breakout_game)
   * animation & game designing
 * [Name Popularity Searching System]()
   * data structure
