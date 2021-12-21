@@ -22,5 +22,5 @@ Watch my *[DEMO VIDEOS!]( https://drive.google.com/drive/folders/14M9R2TH719jFOx
 * [Pedestrian Removing Application](https://github.com/iiirischen/MystanCodeProjects/tree/main/stanCode_projects/pedestrian_removing_application)
   * image processing
   * This program can disappear passersby in scenery.
-* [sierpinski](https://github.com/iiirischen/MystanCodeProjects/tree/main/stanCode_projects/breakout_game)
+* [sierpinski](https://github.com/iiirischen/MystanCodeProjects/tree/main/stanCode_projects/sierpinski)
   * This file recursively prints the Sierpinski triangle on GWindow. The Sierpinski triangle is a fractal described in 1915 by Waclaw Sierpinski. It is a self similar structure that occurs at different levels of iterations.
